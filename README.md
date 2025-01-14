@@ -1,2 +1,2 @@
 # AlienGame
-Creating a 2D Game with Python
+Creating a 2D Game with Python.
